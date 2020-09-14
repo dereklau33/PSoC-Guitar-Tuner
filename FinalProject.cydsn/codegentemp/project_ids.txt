@@ -1,0 +1,25 @@
+C:\Users\dlau\Documents\PSoC Creator\ME135_235\Variable_Declarations.cydsn\Variable_Declarations.cyprj|49bdbdd7-0389-4eb7-9e00-1b5f1f695587
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|6e4899b5-3ea5-441e-9ab1-7908233d4c04
+C:\Users\dlau\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|37b2f014-5d8b-426f-ada6-04a069bd4dbf
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|054a6fd4-babf-4269-b080-861cdc5db3d8
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|2ff5a006-c012-4908-b8de-7fedcfe694b0
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|8d4ee51b-24a1-4f65-b72e-28628254e2c7
+C:\Users\dlau\Documents\PSoC Creator\ME135_235\CE195277_ADC_and_UART\CE195277_ADC_and_UART.cydsn\CE195277_ADC_and_UART.cyprj|3685e2f8-65aa-41d3-ba6a-eb21404c13fc
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|9a96b569-35e7-4043-bc8f-ddf0cc834e9f
+C:\Users\dlau\Documents\PSoC Creator\ME135_235\Interrupt_Priority.cydsn\Interrupt_Priority.cyprj|4f027bdc-953c-43da-861b-fad97c44d23d
+C:\Users\dlau\Documents\PSoC Creator\ME135_235\DAQArrayInterrupt.cydsn\DAQArrayInterrupt.cyprj|63c7efb4-26e2-41f6-8bdd-146cf26d783e
+C:\Users\dlau\Documents\PSoC Creator\ME135_235\DAQArray.cydsn\DAQArray.cyprj|d4452ceb-1801-4e91-8aae-3a9671864b6c
+C:\Users\dlau\Documents\PSoC Creator\ME135_235\TimerInterrupt.cydsn\TimerInterrupt.cyprj|1a303f13-5aa2-4095-8074-8d8cf87db37e
+C:\Users\dlau\Documents\PSoC Creator\ME135_235\PWM.cydsn\PWM.cyprj|f1c093a9-e79c-44ad-a1e4-da4b28eab0fc
+C:\Users\dlau\Documents\PSoC Creator\ME135_235\I2C_Accel_Test.cydsn\I2C_Accel_Test.cyprj|d159687d-685b-4232-a699-52d81606b999
+C:\Users\dlau\Documents\PSoC Creator\ME135_235\I2C_Memory_Test.cydsn\I2C_Memory_Test.cyprj|49437d2c-493d-4acc-a7a7-66433c192c35
+C:\Users\dlau\Documents\PSoC Creator\ME135_235\SimulatedOutput.cydsn\SimulatedOutput.cyprj|c58be1c1-2e28-4777-8f0c-485f2426e51f
+C:\Users\dlau\Documents\PSoC Creator\ME135_235\Union.cydsn\Union.cyprj|73153ab8-4491-4bd3-8dc5-164743e198aa
+C:\Users\dlau\Documents\PSoC Creator\ME135_235\Structure.cydsn\Structure.cyprj|d61fcae5-7758-489d-a49e-24859d517b1d
+C:\Users\dlau\Documents\PSoC Creator\ME135_235\BinaryCommucations.cydsn\BinaryCommucations.cyprj|6aa915e3-2ac0-458e-9613-653a4149efdb
+C:\Users\dlau\Documents\PSoC Creator\ME135_235\EmulatedStepperMotor.cydsn\EmulatedStepperMotor.cyprj|51120839-087b-4ec9-b258-63572af5fa1c
+C:\Users\dlau\Documents\PSoC Creator\ME135_235\EmulatedPWMDCMotor.cydsn\EmulatedPWMDCMotor.cyprj|7999f7d4-d37e-4a4a-b458-5cd8ec1e52cc
+C:\Users\dlau\Documents\PSoC Creator\ME135_235\PIXY2LabVIEW.cydsn\PIXY2LabVIEW.cyprj|c082a1bd-a75e-450a-88b8-5d9095e3d16b
+C:\Users\dlau\Documents\PSoC Creator\ME135_235\CommandInterpreter.cydsn\CommandInterpreter.cyprj|2758c9a9-cb7a-49b7-896b-e56f89205553
+C:\Users\dlau\Documents\PSoC Creator\ME135_235\Lab6Sample.cydsn\Lab6Sample.cyprj|376ff7f9-0457-4454-905c-cc9660a26db0
+C:\Users\dlau\Documents\PSoC Creator\ME135_235\FinalProject.cydsn\FinalProject.cyprj|53440e22-6605-454d-9319-f5391c187d08
